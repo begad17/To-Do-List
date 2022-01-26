@@ -1,4 +1,4 @@
-// https://www.youtube.com/watch?v=mDjFfabR294
+
 import React, { Component } from 'react';
 import { Navbar } from './components/Navbar';
 import { ToDoRows } from './components/ToDoRows';
